@@ -1,0 +1,16 @@
+{
+  "name": "extrae-coordenadas",
+  "version": "1.0.0",
+  "description": "estrae coordenadas de archivo kml",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anthony",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "xml2js": "^0.4.23"
+  }
+}
